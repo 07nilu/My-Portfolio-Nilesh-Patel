@@ -66,6 +66,7 @@ section{
     color: var(--text-color);
     font-weight: 600;
     cursor: default;
+    color: var(--main-color);
 }
 
 .navbar a {
