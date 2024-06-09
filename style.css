@@ -128,6 +128,7 @@ span{
     font-weight: 550;
     line-height: 1.2;
     /* text-shadow: 2 4 6 white; */
+    color: var(--main-color);
 }
 
 .home-content p{
