@@ -8,7 +8,9 @@
     border: none;
     outline: none;
     scroll-behavior: smooth;
-    font-family: 'Times New Roman', Times, serif;
+/*     font-family: 'Times New Roman', Times, serif; */
+    font-family: "Poppins", sans-serif;
+
 }
 
 :root {
